@@ -17,5 +17,4 @@ Repertório criado no ChatGPT e transformado no Gamma
 Resumo didático próprio para alunos que buscam o conhecimento sobre esta Força Armada.
 ```
 
-Link para o E-BOOK:
-/E-BOOK/A-Marinha-do-Brasil-Uma-Historia-de-Transformacao-e-Poder-Maritimo.pdf
+[Link para o E-BOOK:](/E-BOOK/A-Marinha-do-Brasil-Uma-Historia-de-Transformacao-e-Poder-Maritimo.pdf)
